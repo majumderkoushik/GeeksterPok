@@ -6,7 +6,7 @@ Welcome to GeeksterPok, a web application that allows you to filter and display 
 
 ## Demo
 
-You can check out a live demo of the GeeksterPok project here: [Demo Link](link_to_demo)
+You can check out a live demo of the GeeksterPok project here: [Demo Link](https://majumderkoushik.github.io/GeeksterPok/)
 
 ## Features
 
@@ -29,4 +29,4 @@ You'll need a web browser to run this project. No additional software or setup i
 1. Clone the repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/your-username/GeeksterPok.git
+   git clone ( https://github.com/majumderkoushik/GeeksterPok)
